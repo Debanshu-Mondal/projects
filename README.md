@@ -1,1 +1,1 @@
-Hello everyone, I am Debanshu Mondala and this repository contains simple programs I wrote while learning new languages
+Hello everyone, I am Debanshu Mondal and this repository contains some programs I wrote while learning new languages
